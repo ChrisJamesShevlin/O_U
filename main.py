@@ -132,7 +132,7 @@ def reset_all():
 
 # --- GUI Setup ---
 root = tk.Tk()
-root.title("Odds Apex - Pre-Match Over Lay Model")
+root.title("Odds Apex - Over/Under")
 
 main = tk.Frame(root)
 main.pack(padx=10, pady=10)
